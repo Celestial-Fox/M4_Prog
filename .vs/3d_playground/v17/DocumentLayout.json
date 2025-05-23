@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\steal\\unity\\3d_playground\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|c:\\users\\steal\\unity\\3d_playground\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|c:\\users\\steal\\unity\\3d_playground\\assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|C:\\Users\\steal\\unity\\3d_playground\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|C:\\Users\\steal\\unity\\3d_playground\\assets\\scripts\\array_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\array_list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|C:\\Users\\steal\\unity\\3d_playground\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{182C7A81-77C1-6F4B-142B-FF82B84ACB1B}|Assembly-CSharp.csproj|C:\\Users\\steal\\unity\\3d_playground\\assets\\scripts\\les1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\steal\\unity\\3d_playground\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\steal\\unity\\3d_playground\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T09:33:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "playerScore.cs",
               "DocumentMoniker": "C:\\Users\\steal\\unity\\3d_playground\\Assets\\Scripts\\playerScore.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\playerScore.cs",
@@ -51,11 +68,12 @@
               "RelativeToolTip": "Assets\\Scripts\\array_list.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T13:00:19.952Z"
+              "WhenOpened": "2025-05-09T13:00:19.952Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "movement.cs",
               "DocumentMoniker": "C:\\Users\\steal\\unity\\3d_playground\\Assets\\Scripts\\movement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\movement.cs",
@@ -68,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Les1.cs",
               "DocumentMoniker": "C:\\Users\\steal\\unity\\3d_playground\\Assets\\Scripts\\Les1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Les1.cs",
@@ -76,7 +94,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Les1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T12:09:18.785Z"
+              "WhenOpened": "2025-05-09T12:09:18.785Z",
+              "EditorCaption": ""
             }
           ]
         }
