@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/movingPlayer.unity
+- path: Assets/Scenes/MuntJacht.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
